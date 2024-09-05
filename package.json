@@ -1,0 +1,16 @@
+{
+      "name": "p12-front-end",
+      "version": "1.0.0",
+      "description": "Welcome to HRnet! This is our company's internal application to create and view employee records.",
+      "main": "app.js",
+      "scripts": {
+            "build": "webpack",
+            "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "author": "",
+      "license": "ISC",
+      "devDependencies": {
+            "webpack": "^5.94.0",
+            "webpack-cli": "^5.1.4"
+      }
+}
